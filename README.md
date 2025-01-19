@@ -11,7 +11,7 @@ This tool is ideal for professionals, educators, and researchers looking to vali
 ### Model Selection and Utilization
 Leverage pre-trained models from Hugging Face, such as ResNet, VGG, EfficientNet, or Vision Transformer, for effective feature extraction from images.
 
-### Explaination
+### Explanation
 This is the initial page where the users upload the file from there database.
 ![image](https://github.com/user-attachments/assets/f64c1fe0-c83a-486f-a3fa-8f12ba821cd7)
 
