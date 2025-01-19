@@ -1,7 +1,5 @@
 # Altruisty-Image-Plagarism-checker
 
-### FOR CODE CONTACT: 7358110725
-
 The website is a Flask-based image plagiarism detection platform designed to help users verify the originality of images. Users can upload an image through a simple and intuitive interface. Once uploaded, the system preprocesses the image, extracts its features, and compares it against a dataset of original images stored in the system's database.
 
 The application employs advanced algorithms for feature extraction and similarity comparison, ensuring precise results. A dynamic threshold is implemented to filter out low similarity scores, preventing false positives and delivering reliable outcomes. If the uploaded image closely matches any in the dataset, the system flags it as potential plagiarism, displaying the name of the similar image along with the similarity percentage. Otherwise, it confirms no plagiarism detected.
@@ -45,3 +43,4 @@ Now uploading a Picture thats not there in the Original Database folder. the Res
 ![image](https://github.com/user-attachments/assets/9891c078-a24d-45b1-b81e-0583a957f1f2)
 
 
+### FOR CODE CONTACT: 7358110725
