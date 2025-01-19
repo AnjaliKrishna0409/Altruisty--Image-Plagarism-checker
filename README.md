@@ -1,6 +1,6 @@
 # Altruisty-Image-Plagarism-checker
 
-FOR CODE CONTACT: 7358110725
+### FOR CODE CONTACT: 7358110725
 
 The website is a Flask-based image plagiarism detection platform designed to help users verify the originality of images. Users can upload an image through a simple and intuitive interface. Once uploaded, the system preprocesses the image, extracts its features, and compares it against a dataset of original images stored in the system's database.
 
@@ -10,6 +10,10 @@ Key features of the website include efficient handling of large datasets, dynami
 
 This tool is ideal for professionals, educators, and researchers looking to validate the authenticity of images. With its robust backend logic and easy-to-use design, the website serves as a dependable solution for detecting image plagiarism.
 
+### Model Selection and Utilization
+Leverage pre-trained models from Hugging Face, such as ResNet, VGG, EfficientNet, or Vision Transformer, for effective feature extraction from images.
+
+### Explaination
 This is the initial page where the users upload the file from there database.
 ![image](https://github.com/user-attachments/assets/f64c1fe0-c83a-486f-a3fa-8f12ba821cd7)
 
